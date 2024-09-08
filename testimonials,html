@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>شهادات المستخدمين - CodeKids</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>شهادات المستخدمين</h1>
+    </header>
+    <main>
+        <section class="testimonials">
+            <div class="testimonial">
+                <p>"ابني أصبح يحب البرمجة بعد انضمامه إلى CodeKids!"</p>
+                <p>- أم محمد</p>
+            </div>
+            <!-- إضافة المزيد من الشهادات -->
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 CodeKids. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
